@@ -25,7 +25,7 @@ void three() {
 	}
 	printf("%d %d\n", a1.sum, a2.sum);
 }
-
+ 
 int main() {
 	three();
 	if (a1.sum > a2.sum) {
